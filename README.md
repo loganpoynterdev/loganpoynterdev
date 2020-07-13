@@ -1,7 +1,7 @@
 # Hi there! 👋🏼 I'm Logan 👨‍💻
 I'm a graduate with a Bachelor's in Software Engineering currently working on honing my skills in full-stack development to make the jump from 6yrs SysAdmin. My preferred stack is MERN but I know when the job can be done with vanilla code, and my career goal is to break into DevOps. I'm an eager individual that enjoys looking at new technologies just to see what all they can do, and I think reading docs is fun. 😎
 
-#### *Open to job opportunities as a Jr. Developer and my resume can be found on my portfolio linked below!*
+#### *Open to remote job opportunities as a Jr. Developer!*
 
 Thanks for stopping by!
 
@@ -16,4 +16,4 @@ Thanks for stopping by!
 ### More about me
 - ⌨️ I’m currently working on something cool
 - 🎉 I’m currently learning Azure for AZ-104 certification 
-- 🧰 My skills include: HTML5 | CSS3 | JS | jQuery | PHP | Python | MySQL | MongoDB | React <b><i>(learning)</b></i> | Laravel <b><i>(learning x2)</b></i>
+- 🚀 My skills include: HTML5 | CSS3 | JS | jQuery | PHP | Python | MySQL | MongoDB | React <b><i>(learning)</b></i> | Laravel <b><i>(learning x2)</b></i>
