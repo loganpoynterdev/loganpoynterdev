@@ -1,4 +1,4 @@
-# Hi there! 👋🏼 I'm Logan 👨‍💻
+# Hi there! I'm Logan 👨‍💻
 I'm a graduate with a Bachelor's in Software Engineering currently working on honing my skills in full-stack development to make the jump from 6yrs SysAdmin. My preferred stack is MERN but I know when the job can be done with vanilla code, and my career goal is to break into DevOps. I'm an eager individual that enjoys looking at new technologies just to see what all they can do, and I think reading docs is fun. 😎
 
 #### *Open to remote job opportunities as a Jr. Developer!*
@@ -6,7 +6,7 @@ I'm a graduate with a Bachelor's in Software Engineering currently working on ho
 Thanks for stopping by!
 
 
-## Connect with me in other parts the interwebs 🌎:
+### Found on the interwebs 🌎:
 [![linkedin badge](https://img.shields.io/badge/Logan_Poynter-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/logan-poynter)
 [![twitter badge](https://img.shields.io/badge/@mystikdeveloped-30302f?style=flat&logo=twitter)](https://twitter.com/mystikdeveloped)
 [![stackoverflow badge](https://img.shields.io/badge/StackOverflow-30302f?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/12128403/mystik-developed)
