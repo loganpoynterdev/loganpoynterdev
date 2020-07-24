@@ -10,7 +10,7 @@ Thanks for stopping by!
 [![linkedin badge](https://img.shields.io/badge/Logan_Poynter-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/logan-poynter)
 [![twitter badge](https://img.shields.io/badge/@mystikdeveloped-30302f?style=flat&logo=twitter)](https://twitter.com/mystikdeveloped)
 [![stackoverflow badge](https://img.shields.io/badge/StackOverflow-30302f?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/12128403/mystik-developed)
-[![portfolio badge](https://img.shields.io/badge/My_Portfolio-30302f?style=flat&logo=google-chrome)](https://mystikdeveloped.com)
+[![portfolio badge](https://img.shields.io/badge/My_Portfolio-30302f?style=flat&logo=google-chrome)](https://loganpoynter.dev)
 [![email badge](https://img.shields.io/badge/Email_Me-30302f?style=flat&logo=gmail)](mailto:mystikdeveloped@gmail.com)
 
 ### More about me
