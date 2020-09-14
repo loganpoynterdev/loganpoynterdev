@@ -16,7 +16,7 @@ Thanks for stopping by!
 ### More about me
 - ⌨️ I’m currently working on something cool
 - 🎉 I’m currently learning Azure for AZ-104 certification 
-- 🚀 My skills include: HTML5 | CSS3 | JS | jQuery | PHP | Python | MySQL | MongoDB | React <b><i>(learning)</b></i> | Laravel <b><i>(learning x2)</b></i>  
+- 🚀 My skills include: HTML5 | CSS3 | JS | jQuery | PHP | Python | MySQL | MongoDB | Node | Express | React | Laravel <b><i>(learning)</b></i>  
 
 ### My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loganpoynterdev&show_icons=true)
