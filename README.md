@@ -1,7 +1,7 @@
 # Hi there! I'm Logan 👨‍💻
 I'm a graduate with a Bachelor's in Software Engineering currently working on honing my skills in full-stack development to make the jump from 6yrs SysAdmin. My preferred stack is MERN but I know when the job can be done with vanilla code, and my career goal is to break into DevOps. I'm an eager individual that enjoys looking at new technologies just to see what all they can do, and I think reading docs is fun. 😎
 
-#### *Open to remote job opportunities as a Jr. Developer!*
+#### *Open to remote job opportunities*
 
 Thanks for stopping by!
 
