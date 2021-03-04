@@ -13,10 +13,7 @@ Thanks for stopping by!
 [![portfolio badge](https://img.shields.io/badge/My_Portfolio-30302f?style=flat&logo=google-chrome)](https://loganpoynter.dev)
 [![email badge](https://img.shields.io/badge/Email_Me-30302f?style=flat&logo=gmail)](mailto:contact@loganpoynter.dev)
 
-### More about me
-- ⌨️ I’m currently working on something cool
-- 🎉 I’m currently learning Azure for AZ-104 certification 
-- 🚀 My skills include: HTML5 | CSS3 | JS | jQuery | PHP | Python | MySQL | MongoDB | Node | Express | React | Laravel <b><i>(learning)</b></i>  
+🚀 My skills include: HTML5 | CSS3 | JS | jQuery | PHP | Python | Bash | MySQL | MongoDB | Node | Express | React | Laravel | Cloud Computing | Cyber Security | Penetration Testing 
 
 ### My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loganpoynterdev&show_icons=true)
